@@ -42,9 +42,3 @@ git clone https://github.com/ALIHAIDER998/silverrice/git
 cd silverrice
 bash silverrice.sh
 ```
-### Usage PowerShell:
-```
-Invoke-WebRequest -Uri http://dsvr.silverrice.cloud/alld/silverrice.zip -OutFile silverrice.zip
-cd silverrice
-bash silverrice.sh
-```
